@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://scholar.google.com/citations?user=SCHOLAR_ID&user=52UJ_OYAAAAJ/sitemap.xml
+Sitemap: https://RongjieZHAO.github.io/sitemap.xml
