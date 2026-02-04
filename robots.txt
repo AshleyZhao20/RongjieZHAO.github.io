@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://scholar.google.com/citations?hl=zh-CN&user=52UJ_OYAAAAJ&view_op=list_works&gmla=APjjwuZ7vhTHd4VwwRWw2XMcrInPktZjRLWNmMDJ9Ju90j52HH4To4ReUU9OYeBICZG6bbBzi5SwW6QGQx0lTRwEZU0Ebl0f0oMtKtyPr-I/sitemap.xml
